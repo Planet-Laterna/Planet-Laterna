@@ -11,6 +11,8 @@ Here you find all infos around our Planet Laterna RGB controllers.
 
 📫 You can reach us at: planet_laterna@outlook.com
 
+Check out our [Aliexpress Store](https://www.aliexpress.com/store/1100075030?spm=a2g0o.detail.1000007.1.301e572cQbyUjx)
+
 <h3>New upcoming product</h3>
 
 <h4>Laterna mini</h4>
