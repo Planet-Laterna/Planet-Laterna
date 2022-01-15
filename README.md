@@ -15,4 +15,4 @@ Here you find all infos around our Planet Laterna RGB controllers.
 
 <h4>Laterna mini</h4>
 
-![Mini](https://github.com/Planet-Laterna/Planet-Laterna/blob/main/Photos/new_arrival/mini.jpg?raw=true)
+![Mini](https://github.com/Planet-Laterna/Planet-Laterna/blob/main/Photos/new_arrival/mini_all.jpg?raw=true)
