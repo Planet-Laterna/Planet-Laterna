@@ -1,11 +1,11 @@
 <!---
 Planet-Laterna/Planet-Laterna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your chanes.
 --->
 
 👋Hello,
 
-welcome to Planet Laterna.
+welcome to <img src="/Photos/logo_white_background.jpg" width="10%"><br>
 
 Here you find all infos around our Planet Laterna RGB controllers.
 
