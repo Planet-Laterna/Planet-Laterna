@@ -17,4 +17,4 @@ Check out our [Aliexpress Store](https://www.aliexpress.com/store/1100075030?spm
 
 <h4>Laterna mini</h4>
 
-![Mini](https://github.com/Planet-Laterna/Planet-Laterna/blob/main/Photos/new_arrival/mini_all.jpg?raw=true)
+<img src="/Photos/new_arrival/mini_all.jpg" width="90%">
