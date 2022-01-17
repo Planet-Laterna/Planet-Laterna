@@ -15,10 +15,10 @@ Check out our [Aliexpress Store](https://www.aliexpress.com/store/1100075030?spm
 
 <h3>Available Products:</h3><br>
 Laterna RBG controller<br>
-<a href="https://github.com/monoapp3/Laterna"><img src="/Photos/Laterna_blue_terminals_case.png" width="20%"></a><br>
+<a href="https://github.com/Planet-Laterna/Laterna"><img src="/Photos/Laterna_blue_terminals_case.png" width="20%"></a><br>
  
 Laterna Stick RGB controller<br>
-<a href="https://github.com/monoapp3/Laterna_Stick"><img src="/Photos/Stick2.png" width="20%"></a><br>
+<a href="https://github.com/Planet-Laterna/Laterna_Stick"><img src="/Photos/Stick2.png" width="20%"></a><br>
 
 <h3>New upcoming product</h3>
 
