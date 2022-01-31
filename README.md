@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your chanes.
 
 <h2>👋Hello,<br>
 
-<br>welcome to <br><img src="/Photos/logo_white_background.jpg" width="10%"><br>
+<br>welcome to <br><img src="/Photos/logo_white_background.jpg" width="15%"><br>
 
 <br>Here you find all infos around our Planet Laterna RGB controllers.<br>
 
