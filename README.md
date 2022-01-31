@@ -5,9 +5,11 @@ You can click the Preview link to take a look at your chanes.
 
 👋Hello,
 
-welcome to <img src="/Photos/logo_white_background.jpg" width="10%"><br>
+welcome to <br><img src="/Photos/logo_white_background.jpg" width="10%"><br>
 
-Here you find all infos around our Planet Laterna RGB controllers.
+<h2>Here you find all infos around our Planet Laterna RGB controllers.<br>
+
+<br>We are 2 German guys living in China and selling "Made in Germany" from China</h2>
 
 📫 You can reach us at: planet_laterna@outlook.com
 
