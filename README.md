@@ -24,4 +24,6 @@ Laterna Stick RGB controller<br>
 
 <h4>Laterna mini</h4>
 
+[Now available in our Aliexpress Shop](https://www.aliexpress.com/item/1005003856791476.html?spm=5261.ProductManageOnline.0.0.4b624edf4V71Dm)
+
 <img src="/Photos/new_arrival/mini_all.jpg" width="90%">
