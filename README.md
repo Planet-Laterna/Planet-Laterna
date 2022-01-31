@@ -3,11 +3,11 @@ Planet-Laterna/Planet-Laterna is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your chanes.
 --->
 
-👋Hello,
+<h2>👋Hello,<br>
 
-welcome to <br><img src="/Photos/logo_white_background.jpg" width="10%"><br>
+<br>welcome to <br><img src="/Photos/logo_white_background.jpg" width="10%"><br>
 
-<h2>Here you find all infos around our Planet Laterna RGB controllers.<br>
+<br>Here you find all infos around our Planet Laterna RGB controllers.<br>
 
 <br>We are 2 German guys living in China and selling "Made in Germany" from China</h2>
 
